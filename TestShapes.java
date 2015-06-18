@@ -1,5 +1,5 @@
 /**
- * Created by Henroid83 on 2/24/15.
+ * Created by Henry Nichols on 2/24/15.
  */
 public class TestShapes {
     public static void main(String args[])
